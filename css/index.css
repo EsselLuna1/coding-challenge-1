@@ -59,9 +59,9 @@ header
   font-weight: 600;
 }
 .description {
+  margin: 15px 0 0;
   font-weight: 400;
   text-align: center;
-  margin: 15px 0 0;
 }
 @media screen and (max-width: 768px) {
   .header {
@@ -94,28 +94,28 @@ main - box
 }
 .titleContent {
   margin: 0 0 12px;
-  font-size: 20px;
   color: hsl(234, 12%, 34%);
+  font-size: 20px;
 }
 .text01 {
   font-size: 13px;
 }
 .boxWrap img {
-  margin: 40px 0 0 auto;
   display: block;
+  margin: 40px 0 0 auto;
 }
 .textContent {
   text-align: left;
 }
 .box-middle {
-  width: 24.33%;
   display: flex;
+  width: 24.33%;
   flex-direction: column;
   gap: 30px;
 }
 .box1 {
-  border-top: 4px solid hsl(180, 62%, 55%);
   width: 24.33%;
+  border-top: 4px solid hsl(180, 62%, 55%);
 }
 .box2 {
   border-top: 4px solid hsl(0, 78%, 62%);
@@ -124,8 +124,8 @@ main - box
   border-top: 4px solid hsl(34, 97%, 64%);
 }
 .box4 {
-  border-top: 4px solid hsl(212, 86%, 64%);
   width: 24.33%;
+  border-top: 4px solid hsl(212, 86%, 64%);
 }
 @media screen and (max-width: 768px) {
   .box {
@@ -145,7 +145,7 @@ main - box
     margin: 0 0 7px;
   }
   .boxWrap img {
-    margin: 34px  0 0 auto;
     width: 22%;
+    margin: 34px  0 0 auto;
   }
 }
